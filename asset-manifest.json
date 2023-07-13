@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/arian088/Doshboard-Admin.git/static/css/main.69c63629.css",
+    "main.js": "/arian088/Doshboard-Admin.git/static/js/main.8cb69153.js",
+    "index.html": "/arian088/Doshboard-Admin.git/index.html",
+    "main.69c63629.css.map": "/arian088/Doshboard-Admin.git/static/css/main.69c63629.css.map",
+    "main.8cb69153.js.map": "/arian088/Doshboard-Admin.git/static/js/main.8cb69153.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69c63629.css",
+    "static/js/main.8cb69153.js"
+  ]
+}
